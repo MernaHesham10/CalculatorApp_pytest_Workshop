@@ -130,3 +130,4 @@ pytest -n 4  # 4 parallel workers
 ## 💡 Learning Resources
 - [Pytest Documentation](https://docs.pytest.org/)
 - [Python Testing with pytest](https://pythontest.com/pytest-book/)
+- [Pytest](https://www.geeksforgeeks.org/getting-started-with-pytest/)
